@@ -3,6 +3,16 @@
 int main()
 {
 
-printf("Hello nigga");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
+printf("Siema");
 
 }
